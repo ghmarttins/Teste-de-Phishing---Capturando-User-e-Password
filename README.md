@@ -1,8 +1,13 @@
 # 🎯 Simulação de Phishing com Kali Linux 
+(Capturando Usuário e Senha)
+
 > ⚠️ **Aviso Legal:** Este projeto é destinado exclusivamente para fins **educacionais e de conscientização em segurança da informação**. Nenhuma atividade descrita aqui deve ser realizada fora de ambientes controlados e autorizados. O uso indevido pode violar leis locais e os termos de uso de plataformas.
 
 ---
-
+## 🛠 Objetivo
+- Este projeto tem como objetivo demonstrar, o funcionamento de técnicas de phishing utilizando o Kali Linux e a ferramenta SEToolkit. Através de um ambiente isolado, é possível simular a clonagem de páginas web e a coleta de credenciais.
+A proposta é permitir que estudantes, pesquisadores e profissionais de cibersegurança compreendam como ataques de phishing são estruturados, para que possam desenvolver estratégias de defesa mais eficazes
+---
 ## 🛠 Ferramentas Utilizadas
 
 - [Kali Linux](https://www.kali.org/)
