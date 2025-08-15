@@ -1,5 +1,5 @@
 # 🎯 Simulação de Phishing com Kali Linux 
-(Capturando Usuário e Senha)
+
 
 > ⚠️ **Aviso Legal:** Este projeto é destinado exclusivamente para fins **educacionais e de conscientização em segurança da informação**. Nenhuma atividade descrita aqui deve ser realizada fora de ambientes controlados e autorizados. O uso indevido pode violar leis locais e os termos de uso de plataformas.
 
