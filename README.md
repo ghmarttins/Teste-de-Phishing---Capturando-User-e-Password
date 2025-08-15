@@ -63,6 +63,9 @@
 ```/var/www/html```
 - Logs podem ser visualizados diretamente no terminal ou no arquivo gerado pelo Setoolkit.
 
+
+![Alt text](./passwd.png "Optional title")
+
 ---
 📚 Referências e Recurso
 - [Kali Linux](https://www.kali.org/)
